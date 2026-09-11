@@ -6,4 +6,4 @@ This is purely a place for my thoughts to run rampant I hope you enjoy your stay
 
 ## Below is a list of all the thoughts and experiences I have had
 
-[Gender Journey](/genderjourney) %GAP% [Bluefins New Maintainer](/bluefin-maintainer) %GAP% [Music](/music) %GAP% [05-09-2026](/05-09-2026) %GAP% [Gentoo Love](/gentoo-love) %GAP% [The need for Buildstream](/need-of-buildstream)
+[Gender Journey](/genderjourney) %GAP% [Bluefins New Maintainer](/bluefin-maintainer) %GAP% [Music](/music) %GAP% [05-09-2026](/05-09-2026) %GAP% [Gentoo Love](/gentoo-love) %GAP% [The need for Buildstream](/need-of-buildstream) %GAP% [10-09-2026](/10-09-2026)
